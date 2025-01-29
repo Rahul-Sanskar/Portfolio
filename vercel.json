@@ -1,0 +1,7 @@
+{
+  "build": {
+    "env": {
+      "TSCONFIG_PATH": "tsconfig.json"
+    }
+  }
+}
